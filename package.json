@@ -7,5 +7,9 @@
     "brand:odometer-work-systems",
     "personal-work-intelligence-systems",
     "red-cup-engineering"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/personal-work-intelligence-systems-services-section.git"
+  }
 }
