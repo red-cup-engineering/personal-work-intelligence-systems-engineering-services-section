@@ -1,5 +1,5 @@
 {
-  "name": "@red-cup-engineering/personal-work-intelligence-systems-services-section",
+  "name": "@red-cup-engineering/personal-work-intelligence-systems-engineering-services-section",
   "version": "0.1.0",
   "description": "Odometer Work Systems — Red Cup Engineering's work division: the pure compute, record schemas, statement importers, companion intelligence, and assistant engine that observe, project, or advise on one person's work state.",
   "type": "module",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/personal-work-intelligence-systems-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/personal-work-intelligence-systems-engineering-services-section.git"
   },
   "license": "MIT",
   "funding": {
