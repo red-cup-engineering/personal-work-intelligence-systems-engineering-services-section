@@ -1,4 +1,4 @@
-# Personal work intelligence systems services section
+# @red-cup-engineering/personal-work-intelligence-systems-engineering-services-section
 
 <!-- 561-group-standards:badges:start -->
 [![Red Cup Engineering](https://img.shields.io/badge/561%20Group-Red%20Cup%20Engineering-c0392b)](https://github.com/red-cup-engineering)
@@ -6,6 +6,8 @@
 [![Indigenous data: CARE](https://img.shields.io/badge/Indigenous%20data-CARE-4b6f44)](https://github.com/red-cup-engineering/.github/blob/main/GOVERNANCE.md)
 [![Tips welcome](https://img.shields.io/badge/tips-welcome-d4a017)](https://github.com/561-group/.github/blob/main/TIPS.md)
 <!-- 561-group-standards:badges:end -->
+
+Odometer Work Systems — Red Cup Engineering's work division: the pure compute, record schemas, statement importers, companion intelligence, and assistant engine that observe, project, or advise on one person's work state.
 
 The engineering root of the 561 Group's work program and the seat of its
 Red Cup Engineering division, **Odometer Work Systems** (decided
