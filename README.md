@@ -15,7 +15,7 @@ Red Cup Engineering division, **Odometer Work Systems** (decided
 package), seated beneath
 [personal-intelligence-systems-services-section](../../README.md)
 alongside its
-[personal-health-intelligence-systems-services-section](../personal-health-intelligence-systems-services-section/README.md)
+[personal-health-intelligence-systems-engineering-services-section](../personal-health-intelligence-systems-engineering-services-section/README.md)
 sibling, whose charter this one mirrors for work instead of health.
 Founded 2026-09-05 from the program carrier,
 [561 Group Work Services Section](../../../../../../../../../../../561-group-services-section/services/561-group-operations-services-section/services/561-group-work-services-section/README.md),
